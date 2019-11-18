@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402669508445",
+    "firebase_url": "https://jokes-d7c98.firebaseio.com",
+    "project_id": "jokes-d7c98",
+    "storage_bucket": "jokes-d7c98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402669508445:android:91158c048110158b127ab4",
+        "android_client_info": {
+          "package_name": "com.wisdomrider.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402669508445-8g80uae3353u6is0nt5nr078ffff4jll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN2OkAOSF0WuLWb-hdfHnUBPx0wbG_oPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402669508445-8g80uae3353u6is0nt5nr078ffff4jll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
